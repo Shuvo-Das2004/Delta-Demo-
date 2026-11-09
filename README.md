@@ -1,2 +1,2 @@
 # Delta-Demo-
-For demo 
+For demo.
