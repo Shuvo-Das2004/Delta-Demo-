@@ -1,5 +1,5 @@
 # Delta-Demo-
-For demo 
+For demo.
 
 # College
 premier university 
